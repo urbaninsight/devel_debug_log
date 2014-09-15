@@ -1,0 +1,5 @@
+name = Devel debug log
+description = Creates a page that shows debug messages.
+package = Development
+core = 7.x
+dependencies[] = devel
